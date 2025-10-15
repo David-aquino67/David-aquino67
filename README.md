@@ -1,4 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="" target="blank">
+Carlos David Aquino Reyes</a></h1>
+<h3 align="center">Estudiante de Ingenieria en Tecnologias de la Informacion (BUAP) &#127470;&#127475</h3>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+## 👨‍💻 Sobre mí
+
+Soy estudiante de Ingeniería en Tecnologías de la Información en la BUAP (9° semestre), apasionado por el desarrollo backend, la arquitectura de software y la inteligencia artificial.  
+Me gusta diseñar soluciones escalables utilizando tecnologías modernas como **Python, FastAPI y PostgreSQL**, y siempre busco aprender nuevas herramientas que mejoren la eficiencia y calidad del software.
+
+💡 Actualmente estoy trabajando en:
+- Desarrollar una **API de análisis de CFDI** con FastAPI y RabbitMQ.  
+- Mejorar mis conocimientos en **Docker y despliegue en la nube (AWS)**.
+
+🎯 Intereses:
+- Desarrollo backend y microservicios  
+- Ciencia de datos y machine learning  
+- Integración de APIs RESTful  
+- Mensajería con RabbitMQ y MQTT
+
+📫 Puedes contactarme en:  
+📧 [aquino026703@gmail.com](mailto:aquino026703@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/carlos-david-aquino-reyes)
+
+
+<br/>
+
 
 ## 🛠️ My Skills
 
