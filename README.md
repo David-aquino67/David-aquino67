@@ -75,13 +75,7 @@ Programming Languages
 <a href="https://www.rabbitmq.com/"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"></a> &emsp; 
 <a href="http://mqtt.org/"><img alt="MQTT" src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white"></a> 
 </p>
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=David-aquino67&show_icons=true&theme=radical)
-
-## 🛠️ Languages and Tools
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-aquino67&layout=compact&theme=radical)
+cal)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
