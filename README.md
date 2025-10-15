@@ -29,7 +29,7 @@ Programming Languages
 <img alt="PlatformIO" src="https://img.shields.io/badge/PlatformIO-00B0FF?style=for-the-badge&logo=platformio&logoColor=white"/>
 </a>
 </p>
-🛠️ Frameworks
+🛠️ Frameworks y bibliotecas
 <p align="left"> &emsp; 
 <a href="https://fastapi.tiangolo.com/" target="_blank"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> </a> &emsp; 
@@ -40,6 +40,7 @@ Programming Languages
 <p align="left"> &emsp; 
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> &emsp; 
 <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> &emsp; 
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 </p>
 ⚙️ Software & Tools
 <p align="left"> &emsp; 
@@ -52,6 +53,24 @@ Programming Languages
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a> &emsp; 
 <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a> &emsp; 
 <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a> 
+<a href="https://www.eclipse.org/"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a> &emsp; 
+<a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"></a> &emsp; 
+<a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"></a> &emsp; 
+<a href="https://www.jetbrains.com/phpstorm/"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white"></a> &emsp;
+<a href="https://www.jetbrains.com/webstorm/"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"></a> &emsp; 
+<a href="https://www.jetbrains.com/datagrip/"><img alt="DataGrip" src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"></a> 
+</p>
+🔧 Build Tools & Version Control
+<p align="left"> &emsp; 
+<a href="https://maven.apache.org/"><img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"></a> &emsp;
+<a href="https://gradle.org/"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"></a> &emsp; 
+<a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> &emsp; 
+<a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
+</p>
+☁️ Message Brokers & Services
+<p align="left"> &emsp; 
+<a href="https://www.rabbitmq.com/"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"></a> &emsp; 
+<a href="http://mqtt.org/"><img alt="MQTT" src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white"></a> 
 </p>
 ## 📊 GitHub Stats
 
