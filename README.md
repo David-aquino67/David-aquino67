@@ -30,10 +30,11 @@ Programming Languages
 </a>
 </p>
 🛠️ Frameworks
-&emsp;
+<p align="left"> &emsp; 
 <a href="https://fastapi.tiangolo.com/" target="_blank"> 
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 </a>
+</p>
 🗄️ Databases & Cloud Hosting
 <p align="left"> &emsp; 
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> &emsp;
