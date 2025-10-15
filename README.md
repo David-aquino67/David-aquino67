@@ -89,16 +89,13 @@
     &emsp;
     
 </p>
-## 🚀 Mis estadísticas en GitHub
+## 📊 GitHub Stats
 
-![David-aquino67's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-aquino67&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=David-aquino67&show_icons=true&theme=radical)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=David-aquino67&theme=tokyonight" alt="streak stats"/>
+## 🛠️ Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-aquino67&theme=tokyonight&layout=compact)
-
----
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-aquino67&layout=compact&theme=radical)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
