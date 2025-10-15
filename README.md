@@ -34,6 +34,7 @@ Programming Languages
 <a href="https://fastapi.tiangolo.com/" target="_blank"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> </a> &emsp; 
 <a href="https://getbootstrap.com/" target="_blank"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a> 
+<a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </p>
 
 🗄️ Databases & Cloud Hosting
@@ -59,6 +60,8 @@ Programming Languages
 <a href="https://www.jetbrains.com/phpstorm/"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white"></a> &emsp;
 <a href="https://www.jetbrains.com/webstorm/"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"></a> &emsp; 
 <a href="https://www.jetbrains.com/datagrip/"><img alt="DataGrip" src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"></a> 
+<a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a> &emsp; 
+<a href="https://www.w3.org/XML/"><img alt="XML" src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white"></a>
 </p>
 🔧 Build Tools & Version Control
 <p align="left"> &emsp; 
